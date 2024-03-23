@@ -28,6 +28,7 @@ rust-version = "1.72.1"
 members = [
   "algorithms",
   "algorithms/cuda",
+  "algorithms/cuda-2",
   "circuit",
   "circuit/account",
   "circuit/algorithms",

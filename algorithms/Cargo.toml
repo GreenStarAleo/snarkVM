@@ -67,6 +67,7 @@ default-features = false
 
 [dependencies.snarkvm-algorithms-cuda]
 path = "./cuda"
+# package = "snarkvm-algorithms-cuda-2"
 version = "=0.16.19"
 optional = true
 
